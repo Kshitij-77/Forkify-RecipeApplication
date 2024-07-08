@@ -11,15 +11,6 @@
   <a href="https://github.com/CodePapa360/Forkify-Recipe-App#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/CodePapa360" target="_blank">
-    <img alt="Twitter: CodePapa360" src="https://img.shields.io/twitter/follow/CodePapa360.svg?style=social" />
-  </a>
 </p>
 
 <h2 align="center">
